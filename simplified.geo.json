@@ -11,5 +11,4 @@
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-76.4328,37.0934],[-76.5588,37.2139],[-76.619,37.1208],[-76.389,36.9893],[-76.4328,37.0934]]]},"properties":{"kind":"county","name":"Newport News","state":"VA"}},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-76.1754,36.9291],[-76.2959,36.9674],[-76.3452,36.9181],[-76.2904,36.8195],[-76.2247,36.8414],[-76.1754,36.9291]]]},"properties":{"kind":"county","name":"Norfolk","state":"VA"}},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-76.389,36.9893],[-76.3068,37.0003],[-76.2849,37.1153],[-76.4328,37.0934],[-76.389,36.9893]]]},"properties":{"kind":"county","name":"Hampton","state":"VA"}},
-{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-78.3497,39.4649],[-78.3388,39.3499],[-78.4374,39.1965],[-78.4045,39.1691],[-78.5414,39.0541],[-78.4538,39.0267],[-78.3388,39.1034],[-78.3114,39.0103],[-78.1526,39.0377],[-78.0321,39.2622],[-78.3497,39.4649]]]},"properties":{"kind":"county","name":"Frederick","state":"VA"}}
 ]}
