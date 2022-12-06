@@ -10,5 +10,5 @@
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-77.1558,37.1098],[-77.6213,36.8798],[-77.5556,36.8469],[-77.457,36.8633],[-77.4898,36.7209],[-77.4296,36.71],[-76.9531,36.9455],[-76.9641,37.055],[-77.1558,37.1098]]]},"properties":{"kind":"county","name":"Sussex","state":"VA","numberFarms":124,"numberWorkers":129,"totalAgSales":"$42,178,000","topIndustry1":"Grains, oilseeds, dry beans, dry peas - $12,716"}},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-76.4328,37.0934],[-76.5588,37.2139],[-76.619,37.1208],[-76.389,36.9893],[-76.4328,37.0934]]]},"properties":{"kind":"county","name":"Newport News","state":"VA"}},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-76.1754,36.9291],[-76.2959,36.9674],[-76.3452,36.9181],[-76.2904,36.8195],[-76.2247,36.8414],[-76.1754,36.9291]]]},"properties":{"kind":"county","name":"Norfolk","state":"VA"}},
-{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-76.389,36.9893],[-76.3068,37.0003],[-76.2849,37.1153],[-76.4328,37.0934],[-76.389,36.9893]]]},"properties":{"kind":"county","name":"Hampton","state":"VA"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-76.389,36.9893],[-76.3068,37.0003],[-76.2849,37.1153],[-76.4328,37.0934],[-76.389,36.9893]]]},"properties":{"kind":"county","name":"Hampton","state":"VA"}}
 ]}
