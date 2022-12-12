@@ -11,8 +11,12 @@ This output is what was copied into the final and working version of the map tha
 ### Important tools
 
 USDA shapefiles and metadata
+
 mapshaper.org
+
 d3js
+
 codepen.io
+
 geojson-rewind - from NPM
 
