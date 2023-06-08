@@ -1,0 +1,37 @@
+<h1 class="headline">USDA Census of Agriculture 2017 - Virginia Counties</h1>
+<p class="projStatus">For information about project updates and status click here: <a href="https://trello.com/b/brOx6oqs/state-counties-map-telamon" target="_blank">Trello Board</a></p>
+<div id="selectWrapper">
+  <label for="filters">Select a filter for the map</label>
+  <select id="filters" onchange="colorMap(this.value)">
+    <option value=""></option>
+    <option value="agSales">Total Agriculture Sales</option>
+    <option value="aquaculture">Total Aquaculture Sales</option>
+    <option value="numFarms">Number of Farms</option>
+    <option value="numWorkersHired">Number of Workers Hired</option>
+    <option value="numMigrantsHired">Number of Migrant Workers Hired</option>
+    <option value="percFarmsHire">Percent of Farms that Hire Workers</option>
+    <option value="percFamilyFarms">Percent of Farms that are Family Owned Farms</option>
+    <option value="H2AOrders">2023 H-2A Orders</option>
+  </select>
+</div>
+
+<div id="wrapper">
+  <svg id="map" width="48%" height="500px">
+    <div class="legend"><h3>Legend</h3></div>
+    <div class="popup hidden"></div>
+  </svg>
+  
+  <div id="infoBox">
+    <h3 id="countyName"><span class="value">County Name</span></h3>
+    <hr>
+    <p id="numFarms"><span class="title">Number of farms: </span></p>
+    <p id="numWorkers"><span class="title">Number of hired workers: </span></p>
+    <p id="numMigrantWorkers"><span class="title">Number of hired migrant workers: </span></p>
+    <p id="totalAgSales"><span class="title">Total agricultural sales: </span></p>
+    <p id="topIndustry1"><span class="title">Top industry 1: </span></p>
+    <p id="topIndustry2"><span class="title">Top industry 2: </span></p>
+    <p id="topIndustry3"><span class="title">Top industry 3: </span></p>
+    <p id="topCropsByAcres"><span class="title">Top crops by acres: </span></p>
+    <p id="aquaculture"><span class="title">Aquaculture: </span></p>
+  </div>
+</div>
